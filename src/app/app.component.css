@@ -1,0 +1,13 @@
+.draggable {
+  border: 5px solid #ccc;
+  margin: 1rem;
+  padding: 1rem;
+  width: 6rem;
+  cursor: grab;
+}
+.over{
+  border: 1px solid red;
+  margin: 1rem;
+  padding: 1rem;
+  cursor: grabbing;
+}
